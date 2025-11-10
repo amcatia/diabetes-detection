@@ -43,3 +43,8 @@ Planned improvements for upcoming versions:
 - Improve data preprocessing and feature engineering
 - Deploy the model as a simple web app (Flask/Streamlit)
 
+## Demo
+You can run this project online without installation using Google Colab:  
+[Open in Colab](https://colab.research.google.com/)
+
+
