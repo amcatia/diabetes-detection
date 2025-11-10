@@ -1,5 +1,10 @@
 # Diabetes Detection Project
 
+![Python](https://img.shields.io/badge/python-3.9-blue)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-notebook-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
+
 This project is designed to analyze and predict diabetes using the **Pima Indians Diabetes Dataset**.  
 The code is written in Jupyter Notebook and includes the following steps:
 
