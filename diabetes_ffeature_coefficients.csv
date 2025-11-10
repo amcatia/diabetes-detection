@@ -1,0 +1,9 @@
+Feature,Coefficient
+DiabetesPedigreeFunction,0.111262645
+BMI,0.015038641
+Pregnancies,0.010468179
+Age,0.006460267
+Glucose,0.005633529
+BloodPressure,-0.00228103
+SkinThickness,0.000532093
+Insulin,-0.000278145
