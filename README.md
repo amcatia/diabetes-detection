@@ -35,3 +35,11 @@ Below are sample outputs from the analysis:
 
 ### Residuals Distribution
 ![Residuals Distribution](Residuals%20Distribution.png)
+
+## Future Work
+Planned improvements for upcoming versions:
+- Add Logistic Regression model for better classification
+- Compare performance with other algorithms (Random Forest, SVM)
+- Improve data preprocessing and feature engineering
+- Deploy the model as a simple web app (Flask/Streamlit)
+
