@@ -1,8 +1,28 @@
+## Author
+Developed by Akbar Mohammadlou  
+For questions or collaboration, feel free to open an issue or contact me via GitHub.
+
+## Acknowledgements
+Special thanks to the open-source community and the contributors of the Pima Indians Diabetes Dataset.
+
+## Contact
+For professional inquiries: ([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/akbar-mohammad-lou-b36b1437/))  
+Or open an issue in this repository.
+
 # Diabetes Detection Project
 
 ![Python](https://img.shields.io/badge/python-3.9-blue)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-notebook-orange)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
+## Contributing
+Contributions are welcome!  
+If you would like to contribute to this project, please follow these steps:
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Commit your changes (`git commit -m 'Add new feature'`)
+4. Push to the branch (`git push origin feature-branch`)
+5. Open a Pull Request
 
 
 This project is designed to analyze and predict diabetes using the **Pima Indians Diabetes Dataset**.  
@@ -45,6 +65,6 @@ Planned improvements for upcoming versions:
 
 ## Demo
 You can run this project online without installation using Google Colab:  
-[Open in Colab](https://colab.research.google.com/)
+[Open in Colab](https://colab.research.google.com/github/amcatia/diabetes-detection/blob/main/Diabetes.ipynb)
 
 
